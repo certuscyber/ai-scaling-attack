@@ -62,3 +62,6 @@ PYTHON PATH=$(pwd) python create_image.py -s <SOURCE IMAGE> -t <TARGET IMAGE> -l
 ```
 
 If you would like to know more information about each command line argument in create_image.py use the `-h` flag
+
+# scaleatt/scalingOutput
+This directory holds various test images using the three algorithms at 4 different scaling values: 20, 40, 60, 80. 
